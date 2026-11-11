@@ -1,26 +1,86 @@
 {
-"name":"图标库方@guoqu", 
-"description":"图标按照服名或群名命名，按照A-Z排列，方便查找。可以在图标搜索框搜索图标名，缺少的图标可投稿", 
-"icons":
-    [
-{"name":"CcEmby1", "url":"https://raw.githubusercontent.com/Miko6677/my-icon-library/main/icon/Fang/icon/CcEmby.png"},
-{"name":"Charon1", "url":"https://raw.githubusercontent.com/Miko6677/my-icon-library/main/icon/Fang/icon/Charon1.png"},
-{"name":"Dvfilm1", "url":"https://raw.githubusercontent.com/Miko6677/my-icon-library/main/icon/Fang/icon/Dvfilm1.png"},
-{"name":"EmbyClob1", "url":"https://raw.githubusercontent.com/Miko6677/my-icon-library/main/icon/Fang/icon/EmbyClub1.jpg"},
-{"name":"Feyue_caihong1", "url":"https://raw.githubusercontent.com/Miko6677/my-icon-library/main/icon/Fang/icon/Feiyue_caihong1.png"},
-{"name":"Hka1", "url":"https://raw.githubusercontent.com/Miko6677/my-icon-library/main/icon/Fang/icon/HKA1.jpg"},
-{"name":"Hka2", "url":"https://raw.githubusercontent.com/Miko6677/my-icon-library/main/icon/Fang/icon/Hka2.png"},
-{"name":"Laoda_jiesu1", "url":"https://raw.githubusercontent.com/Miko6677/my-icon-library/main/icon/Fang/icon/Laoda_jiesu1.png"},
-{"name":"Loser1", "url":"https://raw.githubusercontent.com/Miko6677/my-icon-library/master/icon/Fang/icon/Loser1.jpg"},
-{"name":"LevildeLuminia1", "url":"https://raw.githubusercontent.com/Miko6677/my-icon-library/main/icon/Fang/icon/LevildeLuminia1.png"},
-{"name":"Mefun_misty1", "url":"https://raw.githubusercontent.com/Miko6677/my-icon-library/main/icon/Fang/icon/Mefun_misty1.png"},
-{"name":"Mooguu_jianshouqing1", "url":"https://raw.githubusercontent.com/Miko6677/my-icon-library/main/icon/Fang/icon/Mooguu_jianshouqing1.png"},
-{"name":"Nanfilx1", "url":"https://raw.githubusercontent.com/Miko6677/my-icon-library/main/icon/Fang/icon/Nanflix1.jpg"},
- {"name":"Nijigen1", "url":"https://raw.githubusercontent.com/Miko6677/my-icon-library/main/icon/Fang/icon/Nijigen1.png"},
-{"name":"Nijigen2", "url":"https://raw.githubusercontent.com/Miko6677/my-icon-library/main/icon/Fang/icon/Nijigen2.jpg"},
-{"name":"Pilipili1", "url":"https://raw.githubusercontent.com/Miko6677/my-icon-library/main/icon/Fang/icon/Pilipili1.png"},
-{"name":"Qidianzhan1", "url":"https://raw.githubusercontent.com/Miko6677/my-icon-library/main/icon/Fang/icon/Qidianzhan1.png"},
-{"name":"SaturDayLite1", "url":"https://raw.githubusercontent.com/Miko6677/my-icon-library/main/icon/Fang/icon/SaturDayLite1.jpg"},
-    {"name":"Zhipianren1", "url":"https://raw.githubusercontent.com/Miko6677/my-icon-library/main/icon/Fang/icon/Zhipianren1.png"}
-    ]
+  "name": "图标库方@guoqu",
+  "description": "图标按照服名或群名命名，按照A-Z排列，方便查找。可以在图标搜索框搜索图标名，缺少的图标可投稿",
+  "icons": [
+    {
+      "name": "CcEmby1",
+      "url": "https://raw.githubusercontent.com/Miko6677/my-icon-library/main/icon/Fang/icon/CcEmby.png"
+    },
+    {
+      "name": "Charon1",
+      "url": "https://raw.githubusercontent.com/Miko6677/my-icon-library/main/icon/Fang/icon/Charon1.png"
+    },
+    {
+      "name": "Dvfilm1",
+      "url": "https://raw.githubusercontent.com/Miko6677/my-icon-library/main/icon/Fang/icon/Dvfilm1.png"
+    },
+    {
+      "name": "EmbyClob1",
+      "url": "https://raw.githubusercontent.com/Miko6677/my-icon-library/main/icon/Fang/icon/EmbyClub1.jpg"
+    },
+    {
+      "name": "Feyue_caihong1",
+      "url": "https://raw.githubusercontent.com/Miko6677/my-icon-library/main/icon/Fang/icon/Feiyue_caihong1.png"
+    },
+    {
+      "name": "Hka1",
+      "url": "https://raw.githubusercontent.com/Miko6677/my-icon-library/main/icon/Fang/icon/HKA1.jpg"
+    },
+    {
+      "name": "Hka2",
+      "url": "https://raw.githubusercontent.com/Miko6677/my-icon-library/main/icon/Fang/icon/Hka2.png"
+    },
+    {
+      "name": "Laoda_jiesu1",
+      "url": "https://raw.githubusercontent.com/Miko6677/my-icon-library/main/icon/Fang/icon/Laoda_jiesu1.png"
+    },
+    {
+      "name": "Loser1",
+      "url": "https://raw.githubusercontent.com/Miko6677/my-icon-library/master/icon/Fang/icon/Loser1.jpg"
+    },
+    {
+      "name": "LevildeLuminia1",
+      "url": "https://raw.githubusercontent.com/Miko6677/my-icon-library/main/icon/Fang/icon/LevildeLuminia1.png"
+    },
+    {
+      "name": "Mefun_misty1",
+      "url": "https://raw.githubusercontent.com/Miko6677/my-icon-library/main/icon/Fang/icon/Mefun_misty1.png"
+    },
+    {
+      "name": "Mooguu_jianshouqing1",
+      "url": "https://raw.githubusercontent.com/Miko6677/my-icon-library/main/icon/Fang/icon/Mooguu_jianshouqing1.png"
+    },
+    {
+      "name": "Nanfilx1",
+      "url": "https://raw.githubusercontent.com/Miko6677/my-icon-library/main/icon/Fang/icon/Nanflix1.jpg"
+    },
+    {
+      "name": "Nijigen1",
+      "url": "https://raw.githubusercontent.com/Miko6677/my-icon-library/main/icon/Fang/icon/Nijigen1.png"
+    },
+    {
+      "name": "Nijigen2",
+      "url": "https://raw.githubusercontent.com/Miko6677/my-icon-library/main/icon/Fang/icon/Nijigen2.jpg"
+    },
+    {
+      "name": "Pilipili1",
+      "url": "https://raw.githubusercontent.com/Miko6677/my-icon-library/main/icon/Fang/icon/Pilipili1.png"
+    },
+    {
+      "name": "Qidianzhan1",
+      "url": "https://raw.githubusercontent.com/Miko6677/my-icon-library/main/icon/Fang/icon/Qidianzhan1.png"
+    },
+    {
+      "name": "SaturDayLite1",
+      "url": "https://raw.githubusercontent.com/Miko6677/my-icon-library/main/icon/Fang/icon/SaturDayLite1.jpg"
+    },
+    {
+      "name": "Zhipianren1",
+      "url": "https://raw.githubusercontent.com/Miko6677/my-icon-library/main/icon/Fang/icon/Zhipianren1.png"
+    },
+    {
+      "name": "HUZls-dbsAAMIbl",
+      "url": "https://raw.githubusercontent.com/Miko6677/my-icon-library/main/icon/Fang/icon/HUZls-dbsAAMIbl.jpg"
+    }
+  ]
 }
