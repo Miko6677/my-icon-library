@@ -3,10 +3,6 @@
   "description": "图标按照服名或群名命名，按照A-Z排列，方便查找。可以在图标搜索框搜索图标名，缺少的图标可投稿",
   "icons": [
     {
-      "name": "1111",
-      "url": "https://raw.githubusercontent.com/Miko6677/my-icon-library/main/icon/IMG_20250426_083739_218.jpg"
-    },
-    {
       "name": "测试 1",
       "url": "https://raw.githubusercontent.com/Miko6677/my-icon-library/main/icon/Fang/icon/%E6%B5%8B%E8%AF%95%201.png"
     }
