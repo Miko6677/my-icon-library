@@ -3,12 +3,12 @@
   "description": "图标按照服名或群名命名，按照A-Z排列，方便查找。可以在图标搜索框搜索图标名，缺少的图标可投稿",
   "icons": [
     {
-      "name": "okemby",
-      "url": "https://raw.githubusercontent.com/Miko6677/my-icon-library/main/icon/Yuan/icon/okemby%EF%BC%9F.png"
+      "name": "bingzhenxigua",
+      "url": "https://raw.githubusercontent.com/Miko6677/my-icon-library/main/icon/Yuan/icon/1000027890-circle.png"
     },
     {
-      "name": "1000027890-circle",
-      "url": "https://raw.githubusercontent.com/Miko6677/my-icon-library/main/icon/Yuan/icon/1000027890-circle.png"
+      "name": "okemby",
+      "url": "https://raw.githubusercontent.com/Miko6677/my-icon-library/main/icon/Yuan/icon/okemby%EF%BC%9F.png"
     }
   ]
 }
